@@ -24,19 +24,19 @@ const imageAltText = "purple and blue abstract background";
  * Sort description that expands on your title on the Home component.
  */
 const description =
-  "I'm a UI/UX student studying at Barnett Technical University. I enjoy creating unique and simplistic user interfaces in creative ways.";
+  "I am an experienced software developer with a demonstrated history of working in the computer software industry. Skilled in C#, .NET, Python, Machine Learning, and UI/UX development in multiple frameworks. Strong engineering professional with decades of experience. I take a user-focused approach to bringing technology solutions to life.";
 
 /**
  * List of some of skills or technologies you work on, are learning,
  * passionate about, or enjoy,
  */
 const skillsList = [
-  "Web design",
-  "User experience",
-  "Inclusive design",
-  "Focus group testing",
-  "Mobile user interfaces",
-  "Graphic design",
+  "C# and .NET development",
+  "Python",
+  "Machine Learning",
+  "",
+  "",
+  "",
 ];
 
 /**
