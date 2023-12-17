@@ -24,7 +24,9 @@ const imageAltText = "purple and blue abstract background";
  * Sort description that expands on your title on the Home component.
  */
 const description =
-  "I am an experienced software developer with a demonstrated history of working in the computer software industry. Skilled in C#, .NET, Python, Machine Learning, and UI/UX development in multiple frameworks. Strong engineering professional with decades of experience. I take a user-focused approach to bringing technology solutions to life.";
+  "I am an experienced software developer with a demonstrated history of working in the computer software industry.\
+   Skilled in C#, .NET, Python, Angular and ReactJS and Windows UI/UX development in multiple frameworks. Strong engineering\
+    professional with decades of experience. I take a user-focused approach to bringing technology solutions to life.";
 
 /**
  * List of some of skills or technologies you work on, are learning,
@@ -32,11 +34,12 @@ const description =
  */
 const skillsList = [
   "C# and .NET development",
+  ".NET and .NET Core, ASP.NET Core",
+  "Angular and (basic) ReactJS",
   "Python",
-  "Machine Learning",
-  "",
-  "",
-  "",
+  "Flask and Django Web Frameworks",
+  "Microsoft Azure and Azure DevOps",
+  "Machine Learning"
 ];
 
 /**
@@ -45,7 +48,9 @@ const skillsList = [
  * about you on a professional level.
  */
 const detailOrQuote =
-  "I am passionate about solving problems in new creative ways to drive innovation. By leveraging my UI/UX experience I continually look for new and better ways to make tech accessible by all.";
+  "I am passionate about solving problems in creative ways to drive innovation.\
+   By leveraging my UI/UX experience. I believe in working with the customer to understand\
+   the needs of their customer and provide value to the business.";
 
 const About = () => {
   return (

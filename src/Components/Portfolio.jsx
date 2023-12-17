@@ -31,28 +31,28 @@ const imageAltText = "Python Code";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "WPF Applications Development",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "I worked on various WPF applications in .NET for Intel, Banfield and Pacific Star Communications.",
+    url: "#",
   },
   {
-    title: "Web Development for Beginners",
+    title: "ASP.NET Web Applications",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "I worked on the backend for Banfield.com. An ASP.NET Web application REST API that powers the website.",
+    url: "https://www.banfield.com/",
   },
   {
-    title: "My Resume Site",
+    title: "Python Web Applications",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "I worked on complex Python Web applications for Intel using Flask and Django and hosted internally with CloudFoundry",
+    url: "#",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "Machine Learning",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "I am currently a beginner, but enrolled in a Machine Learning courses from University of Washington and Coursera.",
+    url: "#",
   },
 ];
 
