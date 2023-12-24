@@ -24,7 +24,7 @@ const imageAltText = "purple and blue abstract background";
  * Sort description that expands on your title on the Home component.
  */
 const description =
-  "I am an experienced software developer with a demonstrated history of working in the computer software industry.\
+  "Sylvan Softworks is a sole-proprietor LLC operated by Louis Duran. I am an experienced software developer with a demonstrated history of working in the computer software industry.\
    Skilled in C#, .NET, Python, Angular and ReactJS and Windows UI/UX development in multiple frameworks. Strong engineering\
     professional with decades of experience. I take a user-focused approach to bringing technology solutions to life.";
 
@@ -65,14 +65,14 @@ const About = () => {
           textAlign: "center",
         }}
       >
-        <h2>About Myself</h2>
+        <h2>About Sylvan Softworks</h2>
         <p className="large">{description}</p>
         <hr />
         <ul
           style={{
             textAlign: "left",
             columns: 2,
-            fontSize: "1.25rem",
+            fontSize: "1.2rem",
             margin: "2rem 3rem",
             gap: "3rem",
           }}
