@@ -33,8 +33,8 @@ const projectList = [
   {
     title: "WPF Applications Development",
     description:
-      "I worked on various WPF applications in .NET for Intel, Banfield and Pacific Star Communications.",
-    url: "#",
+      "I worked on various WPF applications in .NET for Intel, Banfield and IQ-Core for Pacific Star Communications.",
+    url: "https://www.curtisswrightds.com/products/networking-communications/pacstar/iq-core-software",
   },
   {
     title: "ASP.NET Web Applications",
@@ -46,13 +46,13 @@ const projectList = [
     title: "Python Web Applications",
     description:
       "I worked on complex Python Web applications for Intel using Flask and Django and hosted internally with CloudFoundry",
-    url: "#",
+    url: "https://www.intel.com",
   },
   {
     title: "Machine Learning",
     description:
-      "I am currently a beginner, but enrolled in a Machine Learning courses from University of Washington and Coursera.",
-    url: "#",
+      "I am currently a beginner, and I am enrolled in a Machine Learning courses from the University of Washington and Coursera.",
+    url: "https://www.washington.edu",
   },
 ];
 
