@@ -21,7 +21,7 @@ import PropTypes from "prop-types";
  * freely use on your site.
  */
 import image from "../images/Python-Code-Image.jpg";
-import image from "../images/Louis-Duran.jpg";
+import image from "../images/louis-oilpainting.png";
 
 const imageAltText = "Tech Bro";
 

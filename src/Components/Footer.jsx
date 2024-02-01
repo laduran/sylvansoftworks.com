@@ -115,6 +115,8 @@ const Footer = (props) => {
       </div>
       <p className="small" style={{ marginTop: 0, color: "white" }}>
         Created by {name}
+        <br></br>
+        Oregon Registry Number: 186648797
       </p>
     </div>
   );
