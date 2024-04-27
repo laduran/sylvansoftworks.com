@@ -59,8 +59,8 @@ const About = () => {
       <div
         style={{
           backgroundColor: "white",
-          width: "50%",
-          padding: "4rem",
+          width: "85%",
+          padding: "1rem",
           margin: "3rem auto",
           textAlign: "center",
         }}
@@ -73,8 +73,8 @@ const About = () => {
             textAlign: "left",
             columns: 2,
             fontSize: "1.2rem",
-            margin: "2rem 3rem",
-            gap: "3rem",
+            margin: "1rem 1rem",
+            gap: "1rem",
           }}
         >
           {skillsList.map((skill) => (
