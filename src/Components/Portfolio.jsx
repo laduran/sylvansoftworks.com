@@ -21,8 +21,7 @@ import React from "react";
  */
 //import image from "../images/Python-Code-Image.jpg";
 import image from "../images/louis-oilpainting.png";
-
-const imageAltText = "Stylized Portrait of Louis Duran oil paint";
+const imageAltText = "Stylized Portrait of Louis Duran";
 
 /**
  * Project list
@@ -52,8 +51,8 @@ const projectList = [
   {
     title: "Machine Learning",
     description:
-      "I am currently a beginner, and I am enrolled in a Machine Learning courses from the University of Washington and Coursera.",
-    url: "https://www.washington.edu",
+      "I am enrolled in a Machine Learning certificate program from the University of Washington.",
+    url: "https://www.pce.uw.edu/certificates/machine-learning",
   },
 ];
 
@@ -65,7 +64,7 @@ const Portfolio = () => {
         <div style={{ maxWidth: "40%", alignSelf: "center" }}>
           <img
             src={image}
-            style={{ height: "90%", width: "100%", objectFit: "cover" }}
+            style={{ height: "100%", width: "100%", minWidth: "120px", maxWidth: "320px", objectFit: "cover" }}
             alt={imageAltText}
           />
         </div>
