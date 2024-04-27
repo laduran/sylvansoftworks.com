@@ -13,11 +13,11 @@ import PropTypes from "prop-types";
 import devDotToIcon from "../images/socials/devdotto.svg";
 import envelopeIcon from "../images/socials/envelope.svg";
 import gitHubIcon from "../images/socials/github.svg";
-//import instagramIcon from "../images/socials/instagram.svg";
+import instagramIcon from "../images/socials/instagram.svg";
 import linkedInIcon from "../images/socials/linkedin.svg";
 import mediumIcon from "../images/socials/medium.svg";
-//import twitterIcon from "../images/socials/twitter.svg";
-//import youTubeIcon from "../images/socials/youtube.svg";
+import twitterIcon from "../images/socials/twitter.svg";
+import youTubeIcon from "../images/socials/youtube.svg";
 
 /**
  * 💡 Learning resources
@@ -49,7 +49,7 @@ const Footer = (props) => {
         alignItems: "center",
         gap: "2.5rem",
         padding: "5rem 0 3rem",
-        backgroundColor: "#B57519",
+        backgroundColor: "darkgreen",
         width: "100vw"
       }}
     >
@@ -137,7 +137,6 @@ Footer.propTypes = {
   primaryColor: PropTypes.string,
   twitter: PropTypes.string,
   youTube: PropTypes.string,
-
 };
 
 export default Footer;
