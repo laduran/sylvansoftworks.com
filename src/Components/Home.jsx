@@ -21,7 +21,7 @@ import PropTypes from "prop-types";
  * freely use on your site.
  */
 import image from "../images/foggy_lake.jpg";
-const imageAltText = "Python Code Image";
+const imageAltText = "Foggy Lake";
 
 const Home = ({ name, title }) => {
   return (
@@ -29,7 +29,7 @@ const Home = ({ name, title }) => {
       <img className="background" src={image} alt={imageAltText} />
       <div style={{ position: "absolute",
                     top: "5rem", 
-                    left: "2rem", 
+                    left: "1rem", 
                     width: "17rem" }}>
         <h1>{name}</h1>
         <h2>{title}</h2>
