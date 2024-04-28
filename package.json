@@ -1,7 +1,7 @@
 {
-  "name": "educator-js-codespace-template",
-  "version": "1.0.0",
-  "description": "Educator JS Codespace Template",
+  "name": "sylvan-softworks-com",
+  "version": "1.0.2",
+  "description": "Sylvan Softworks LLC",
   "source": "src/index.html",
   "homepage": "https://github.com/microsoft/codespaces-teaching-template-js#readme",
   "scripts": {
@@ -21,9 +21,9 @@
     "url": "https://github.com/microsoft/codespaces-teaching-template-js/issues"
   },
   "dependencies": {
-    "parcel": "^2.11.0",
-    "react": "^18.2.0",
-    "react-dom": "^18.2.0"
+    "parcel": "^2.12.0",
+    "react": "^18.3.0",
+    "react-dom": "^18.3.0"
   },
   "devDependencies": {
     "eslint": "^8.23.0",
@@ -31,7 +31,7 @@
     "eslint-plugin-jsx-a11y": "^6.6.1",
     "eslint-plugin-prettier": "^4.2.1",
     "eslint-plugin-react": "^7.31.7",
-    "gh-pages": "^4.0.0",
+    "gh-pages": "^6.1.0",
     "html-webpack-plugin": "^5.5.0",
     "prettier": "^2.7.1",
     "process": "^0.11.10"
