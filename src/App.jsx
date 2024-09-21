@@ -26,7 +26,7 @@ import "./styles.css";
 const siteProps = {
   name: "Sylvan Softworks",
   title: "Software Development / Consulting",
-  email: "louis.duran@gmail.com",
+  email: "louis@sylvansoftworks.com",
   gitHub: "laduran",
   instagram: "",
   linkedIn: "louis-d-4b3846162",
