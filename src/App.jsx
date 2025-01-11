@@ -31,7 +31,7 @@ const siteProps = {
   instagram: "",
   linkedIn: "louis-d-4b3846162",
   medium: "louisduran",
-  twitter: "",
+  bluesky: "",
   youTube: "",
 };
 
